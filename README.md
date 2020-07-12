@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome to my Github
 
+I love open source! I also particularly enjoy challenges in distributed computing, cryptography,
+and code design to accelerate the two.
+ 
+I spend most of my time as an entrepreneur and helping small business by bringing down technical costs through OSS.
 <!--
 **scott-wyatt/scott-wyatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
